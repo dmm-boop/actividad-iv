@@ -6,7 +6,7 @@ Proyecto educativo y reproducible para comparar **tres modelos de CLIP zero-shot
 
 ## Estructura
 - `notebooks/Actividad_IV_Gestión_de_Proyectos_de_Inteligencia_Artificial.ipynb`: Colab con GPU, dependencias, autenticación opcional, dataset, inferencia, métricas, latencia y conclusiones.
-- `src/descargar_dataset.py`: genera manifiesto del dataset.
+- `src/actividad_iv_gestion_de_proyectos_de_inteligencia_artificial.py`: Código fuente.
 - `data/README.md`: Dataset utilizado, procedencia y campos.
 - `results/Actividad IV Gestión de Proyectos de Inteligencia Artificial.docx`: Reporte técnico de la actividad.
 - `requirements.txt`: Dependencias utilizadas.
